@@ -3,9 +3,10 @@ Tags: database, query, sql, manager, admin, DBA, mysql, phpMyAdmin
 
 
 Requires at least: 4.4
-Tested up to: 4.9.4
-Stable tag: 4.9.4
-License: GPLv2 or later
+| Tested up to: 4.9.4
+| Stable tag: 4.9.4
+| License: GPLv2 or later
+
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Run The SQL Query is a fork of Run SQL Query plugin by Fabricio Carell. It's a simple plugin to quickly execute any type of SQL query into the WordPress's DB and export the results in a CSV format file.
